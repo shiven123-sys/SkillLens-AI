@@ -1,9 +1,6 @@
 SKILL LENS AI - Resume Screener
 Tagline: “Skip the noise, meet the talent.”
 
-Project Overview
-Nightingale is an AI-powered Resume Screening system that helps recruiters quickly identify the most suitable candidates by analyzing resumes semantically. It goes beyond traditional keyword-based ATS systems by using advanced NLP techniques to understand the context of candidate experiences and skills.
-
 Features
 Upload resumes in PDF format.
 Extract text from resumes and perform semantic search using Sentence Transformers.
